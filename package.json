@@ -1,0 +1,21 @@
+{
+  "name": "Aurorain",
+  "displayName": "Aurorain",
+  "description": "Aurorain Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aurorain",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aurorain-color-theme.json"
+      }
+    ]
+  }
+}
