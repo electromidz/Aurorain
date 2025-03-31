@@ -1,14 +1,14 @@
 {
-  "name": "Aurorain",
-  "displayName": "Aurorain",
-  "description": "Aurorain Theme",
-  "version": "0.0.1",
+  "name": "aurorain",
+  "displayName": "Aurorain Theme",
+  "description": "Aurorain theme with a celestial touch.",
+  "version": "1.0.0",
+  "publisher": "Mostafa-Gholami",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.70.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": [ "Themes" ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
