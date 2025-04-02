@@ -2,7 +2,7 @@
   "name": "aurorain",
   "displayName": "Aurorain Theme",
   "description": "Aurorain theme with a celestial touch.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "MostafaGh",
   "engines": {
     "vscode": "^1.70.0"
