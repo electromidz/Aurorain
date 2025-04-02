@@ -1,7 +1,7 @@
 # Aurorain Theme
 A dark theme for VS Code.
 <div align="center">
-  <img src="image/python.png" width="800" alt="Profile"/>
+  <img src="image/python.png" width="800" alt=""/>
 </div>
 
 ## Installation
